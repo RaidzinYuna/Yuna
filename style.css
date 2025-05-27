@@ -1,15 +1,15 @@
 body {
     font-family: Arial,  sans-serif; /* шрифт */
     font-size: 11px; /* Размер основного шрифта */
-    background-color: #f8f5d6; /* Цвет фона страницы */
-    color: #e2a568; /* Цвет основного текста */ 
+    background-color: #5988FF; /* Цвет фона страницы */
+    color: #D6FF6B; /* Цвет основного текста */ 
     font-family:'Bradley Hand', cursive ; /* Используем шрифт*/
 }
 h1 {
-    color: #f1ac61; /* Цвет заголовка */
+    color: #FD98FB; /* Цвет заголовка */
     font-size: 24px; /* Размер шрифта в пунктах */
     font-family: Georgia, serif; /* шрифт */
-    border-bottom: 2px solid #b16309; /* Граница снизу */
+    border-bottom: 2px solid #FFFFFF; /* Граница снизу */
     padding-bottom: 10px; /* Отступ снизу */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
